@@ -214,3 +214,7 @@ RepoEval is built by [EmbrOS](https://embros.xyz) — the AI Builder Operating S
 [🐦 Twitter](https://x.com/embOS_ai) • [💬 Discord](https://discord.gg/FZsWkYpM9b) • [🌐 embros.xyz](https://embros.xyz)
 
 </div>
+
+---
+
+🐦 Follow on X: [@probert_mihai](https://x.com/probert_mihai)
