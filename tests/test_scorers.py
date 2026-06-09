@@ -105,7 +105,7 @@ def test_leaderboard_generator(completed_benchmark, tmp_output):
     html_path = gen.generate(completed_benchmark, output_dir=tmp_output)
     
     assert html_path.exists()
-    html_content = html_path.read_text()
+    html_content = html_path.read_text(encoding="utf-8")
     assert "Test Benchmark" in html_content
     assert "60.0%" in html_content or "3/5" in html_content
     
